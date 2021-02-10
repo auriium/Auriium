@@ -1,4 +1,19 @@
-### Hi there 👋
+### Auriium
+
+Amateur Java and C# Developer. 
+
+### Current Projects
+- Dataloader from SolarMC
+- EYETEM framework from Project RAZE
+
+### Want to Do
+- C# Game development
+
+### Statistics
+
+![Auriium github stats](https://github-readme-stats.vercel.app/api?username=Auriium&show_icons=true&theme=onedark&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Auriium&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Auriium/Auriium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
