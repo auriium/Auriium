@@ -6,6 +6,13 @@ Amateur Java and C# Developer.
 - Dataloader from SolarMC
 - EYETEM framework from Project RAZE
 
+### Important TODO
+- Refactor AUtils overhaul
+- Add serviceprovider / service / scoreboard to AUtils
+- Make AUtils newbie friendly, remove dependence on Guice DI framework
+- Maybe move Leaf to it's own repository
+- Finish EYETEM (one day)
+
 ### Want to Do
 - C# Game development
 
