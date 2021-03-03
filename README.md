@@ -4,13 +4,12 @@ Amateur Java and C# Developer.
 
 ### Current Projects
 - Dataloader from SolarMC
-- EYETEM framework from Project RAZE
 
 ### Important TODO
-- Refactor AUtils overhaul
-- Add serviceprovider / service / scoreboard to AUtils
-- Make AUtils newbie friendly, remove dependence on Guice DI framework
-- Maybe move Leaf to it's own repository
+- Maybe move Leaf to it's own repository (branch)
+- Minigames framework (dragon)
+- AI FRAMEWORK???? (reign)
+- Stop adding stupid shit to beetle
 - Finish EYETEM (one day)
 
 ### Want to Do
