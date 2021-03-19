@@ -6,10 +6,8 @@ Amateur Java and C# Developer.
 - Dataloader from SolarMC
 
 ### Important TODO
-- Maybe move Leaf to it's own repository (branch)
 - Minigames framework (dragon)
-- AI FRAMEWORK???? (reign)
-- Stop adding stupid shit to beetle
+- battle ""ai"" FRAMEWORK???? (reign)
 - Finish EYETEM (one day)
 
 ### Want to Do
