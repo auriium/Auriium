@@ -1,6 +1,6 @@
 ### Auriium (Matt Lui)
 
-Amateur Java and C# Developer. 
+Java and C# Developer. 
 
 ### Current Projects
 - Dataloader from SolarMC
