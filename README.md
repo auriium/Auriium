@@ -1,17 +1,6 @@
 ### Auriium (Matt Lui)
 
-Java and C# Developer. 
-
-### Current Projects
-- Dataloader from SolarMC
-
-### Important TODO
-- Minigames framework (dragon)
-- battle ""ai"" FRAMEWORK???? (reign)
-- Finish EYETEM (one day)
-
-### Want to Do
-- C# Game development
+Java and C# Developer
 
 ### Statistics
 
